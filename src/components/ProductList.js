@@ -54,7 +54,6 @@ const ProductList = () => {
 
     return (
         <div className='conatiner'>
-            <Link to="/"><i className="fa-3x fa-solid fa-angle-left"></i></Link>
 
             <div className='row'>
                 <div className='col-lg-4 bg-light d-flex flex-column p-3 h-100'>
